@@ -1,8 +1,9 @@
 {
   "name": "war-status-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "war-status-bot/index.js",
   "scripts": {
+    "start": "node war-status-bot/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -26,5 +27,13 @@
     "v8-compile-cache-lib": "^3.0.1",
     "yn": "^3.1.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrtrew97/War-Time-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mrtrew97/War-Time-Bot/issues"
+  },
+  "homepage": "https://github.com/Mrtrew97/War-Time-Bot#readme",
   "description": ""
 }
